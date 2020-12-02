@@ -1,0 +1,10 @@
+$primary: #40B983;
+$secondary: #35495E;
+
+
+.btn-login {
+  background-color: $primary;
+  &:hover {
+    background-color: $secondary;
+  }
+}
