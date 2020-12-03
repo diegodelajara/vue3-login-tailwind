@@ -1,7 +1,7 @@
 <template>
   <div class="card-login px-4">
-    <img alt="Vue logo" src="./assets/logo.png" class="mx-auto">
-    <Login/>
+    <img alt="Vue logo" src="./assets/logo.png" class="mx-auto pb-3">
+    <Login />
   </div>
 </template>
 
